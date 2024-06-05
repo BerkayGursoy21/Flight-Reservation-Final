@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\ucakrezervasyon\\ucakrezervasyon\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\datalocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:datalocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmplane.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:frmplane.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:frmplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:frmplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:frmreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|UcakRezervasyon.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|UcakRezervasyon.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|Flight Reservation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|UcakRezervasyon.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FC761-7D0B-46E5-8D11-1FEBCE90331D}|UcakRezervasyon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\rezervasyonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\models\\lokasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\verilokasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\rezervasyonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\models\\ucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\models\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\ucakform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\ucakform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:57:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmMain.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmMain.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:57:53.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\DBContext.cs",
+              "RelativeDocumentMoniker": "DBContext.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\DBContext.cs",
+              "RelativeToolTip": "DBContext.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwDQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:57:42.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmPlane.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmPlane.cs",
+              "RelativeDocumentMoniker": "frmPlane.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmPlane.cs",
+              "RelativeToolTip": "frmPlane.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:57:15.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPlane.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmPlane.cs",
+              "RelativeDocumentMoniker": "frmPlane.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmPlane.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmPlane.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:57:03.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPlane.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmPlane.Designer.cs",
+              "RelativeDocumentMoniker": "frmPlane.Designer.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmPlane.Designer.cs",
+              "RelativeToolTip": "frmPlane.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:55:01.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataLocation.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\DataLocation.cs",
+              "RelativeDocumentMoniker": "DataLocation.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\DataLocation.cs",
+              "RelativeToolTip": "DataLocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:54:22.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\Models\\Plane.cs",
+              "RelativeDocumentMoniker": "Models\\Plane.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\Models\\Plane.cs",
+              "RelativeToolTip": "Models\\Plane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:53:35.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLocation.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmLocation.cs",
+              "RelativeDocumentMoniker": "frmLocation.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmLocation.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmLocation.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:08:57.734Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmReservation.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmReservation.cs",
+              "RelativeDocumentMoniker": "frmReservation.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmReservation.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmReservation.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:58:04.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\DBContext.cs",
+              "RelativeDocumentMoniker": "DBContext.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\DBContext.cs",
+              "RelativeToolTip": "DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:25:05.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Models\\Location.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\Models\\Location.cs",
+              "RelativeToolTip": "Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:53:07.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLocation.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmLocation.cs",
+              "RelativeDocumentMoniker": "frmLocation.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmLocation.cs",
+              "RelativeToolTip": "frmLocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:25:31.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:27:11.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:52:13.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\UcakRezervasyon\\UcakRezervasyon\\frmMain.Designer.cs",
+              "RelativeToolTip": "frmMain.Designer.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAYwFEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:54:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RezervasyonForm.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\RezervasyonForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\RezervasyonForm.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\RezervasyonForm.cs",
+              "RelativeToolTip": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\RezervasyonForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:15:14.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Lokasyon.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Lokasyon.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Lokasyon.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Lokasyon.cs",
+              "RelativeToolTip": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Lokasyon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:08:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VeriLokasyon.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\VeriLokasyon.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\VeriLokasyon.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\VeriLokasyon.cs",
+              "RelativeToolTip": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\VeriLokasyon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:29:03.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RezervasyonForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\RezervasyonForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\RezervasyonForm.cs",
+              "ToolTip": "C:\\Users\\berka\\Downloads\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\RezervasyonForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\RezervasyonForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:12:51.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ucak.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Ucak.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Ucak.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Ucak.cs",
+              "RelativeToolTip": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Ucak.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:25:02.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\MainForm.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\MainForm.cs",
+              "RelativeToolTip": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:21:37.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Rezervasyon.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Rezervasyon.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Rezervasyon.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Rezervasyon.cs",
+              "RelativeToolTip": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\Models\\Rezervasyon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:25:01.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\MainForm.cs",
+              "ToolTip": "C:\\Users\\berka\\Downloads\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:20:29.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UcakForm.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\UcakForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\UcakForm.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\UcakForm.cs",
+              "RelativeToolTip": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\UcakForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:28:08.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UcakForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\UcakForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\oznmproje\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\UcakForm.cs",
+              "ToolTip": "C:\\Users\\berka\\Downloads\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\UcakForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\UcakRezervasyon-main\\UcakRezervasyon-main\\UcakRezervasyon\\UcakForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:16:43.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
