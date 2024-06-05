@@ -1,14 +1,23 @@
 Bu proje, C# ve SQLite kullanılarak geliştirilmiş kapsamlı bir uçuş rezervasyon sistemidir. Sistem, uçuş rezervasyonlarını, müşteri bilgilerini ve uçuş programlarını yönetmek için çeşitli işlevler içerir.
 Özellikler
 •	** Kullanıcı Kaydı ve Giriş:
+
 •	** Yeni kullanıcılar için kayıt olma ve mevcut kullanıcılar için giriş yapma.
+
 •	** Uçuş Arama ve Rezervasyon:
+
 •	** Kullanıcıların mevcut uçuşları arayabilmesi ve rezervasyon yapabilmesi.
+
 •	** Müşteri Bilgilerini Yönetme:
+
 •	** Kullanıcıların profil bilgilerini güncelleyebilmesi.
+
 •	** Uçuş Programlarını Görüntüleme:**
+
 •	** Kullanıcıların tüm uçuş programlarını görüntüleyebilmesi.
+
 •	** Yönetim Paneli:
+
 •	** Yöneticilerin uçuşları ve kullanıcı hesaplarını yönetebilmesi.
 ________________________________________
 MODELS
@@ -21,7 +30,10 @@ Reservation.cs = Bu model, uçak rezervasyon sisteminde yapılmış rezervasyonl
 DbContext = Bu sınıf, Entity Framework Core kullanılarak veritabanı işlemlerini yönetmek için tasarlanmıştır. DBContext sınıfı, projenin veritabanı modelini tanımlar ve bu modele erişim sağlar.. DbSet özellikleri, belirli veritabanı tablolarına erişim sağlar ve bu tabloların veri manipülasyonu için kullanılır.
 
 frmLocation = Bu form, uçak rezervasyon sistemindeki lokasyon bilgilerini yönetmek için kullanılır. kullanıcının lokasyon bilgilerini düzenleyebilmesi için gerekli olan tüm işlevleri içerir. Veritabanı bağlantısı üzerinde işlemler gerçekleştirir ve kullanıcının verilerle etkileşimde bulunmasını sağlar.
+
 frmMain= Bu ana form, uygulamanın kullanıcı arayüzünde kullanılacak olan diğer formlara (uçak, lokasyon ve rezervasyon formları gibi) erişimi sağlar.
+
 frmPlane = Bu form, kullanıcı arayüzünde uçak eklemek, güncellemek ve silmek için gerekli işlevleri sağlar. Bu form uygulamanın uçaklarla ilgili verilerini yönetmek için kullanılır. Kullanıcılar, form aracılığıyla uçakları ekleyebilir, güncelleyebilir veya silebilirler. Veritabanı bağlantısı üzerinde işlemler gerçekleştirir ve kullanıcının verilerle etkileşimde bulunmasını sağlar.
+
 frmReservation = Bu form, uygulamanın uçak rezervasyonlarıyla ilgili verilerini yönetmek için kullanılır. Kullanıcılar, form aracılığıyla rezervasyonları ekleyebilir, güncelleyebilir veya silebilirler. Veritabanı bağlantısı üzerinde işlemler gerçekleştirir ve kullanıcının verilerle etkileşimde bulunmasını sağlar. Ayrıca, rezervasyonlu koltukları görsel olarak göstermek için bir düzen sağlar.
 
