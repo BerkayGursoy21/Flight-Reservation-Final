@@ -1,5 +1,8 @@
 Bu proje, C# ve SQLite kullanılarak geliştirilmiş kapsamlı bir uçuş rezervasyon sistemidir. Sistem, uçuş rezervasyonlarını, müşteri bilgilerini ve uçuş programlarını yönetmek için çeşitli işlevler içerir.
+________________________________________
+
 Özellikler
+
 •	** Kullanıcı Kaydı ve Giriş:
 
 •	** Yeni kullanıcılar için kayıt olma ve mevcut kullanıcılar için giriş yapma.
