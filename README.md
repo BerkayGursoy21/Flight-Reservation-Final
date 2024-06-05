@@ -36,7 +36,7 @@ DataLocation = Bu sınıf, uçak rezervasyon sisteminde basit bir veri taşıyı
 DbContext = Bu sınıf, Entity Framework Core kullanılarak veritabanı işlemlerini yönetmek için tasarlanmıştır. DBContext sınıfı, projenin veritabanı modelini tanımlar ve bu modele erişim sağlar.. DbSet özellikleri, belirli veritabanı tablolarına erişim sağlar ve 
 bu tabloların veri manipülasyonu için kullanılır.
 ________________________________________
- fORMLAR
+ FORMLAR
 
 frmLocation = Bu form, uçak rezervasyon sistemindeki lokasyon bilgilerini yönetmek için kullanılır. kullanıcının lokasyon bilgilerini düzenleyebilmesi için gerekli olan tüm işlevleri içerir. Veritabanı bağlantısı üzerinde işlemler gerçekleştirir ve kullanıcının verilerle etkileşimde bulunmasını sağlar.
 
