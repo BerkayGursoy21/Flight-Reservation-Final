@@ -1,4 +1,4 @@
-Bu proje, C# ve SQLite kullanılarak geliştirilmiş kapsamlı bir uçuş rezervasyon sistemidir. Sistem, uçuş rezervasyonlarını, müşteri bilgilerini ve uçuş programlarını yönetmek için çeşitli işlevler içerir.
+Uçuş Rezervasyon Uygulaması, uçak bilgileri, lokasyonlar ve rezervasyonlar gibi uçuşla ilgili verilerin yönetimini sağlayan bir Windows Form uygulamasıdır. Kullanıcıların uçak, konum ve rezervasyon verilerini eklemelerini, güncellemelerini ve silmelerini kolaylaştıran kullanıcı dostu bir arayüz sunar.
 ________________________________________
 
 Özellikler
