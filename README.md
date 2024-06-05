@@ -13,6 +13,7 @@ Bu proje, C# ve SQLite kullanılarak geliştirilmiş kapsamlı bir uçuş rezerv
 - ** Yöneticilerin uçuşları ve kullanıcı hesaplarını yönetebilmesi.
 - ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MODELS
+
 Location.cs = uçak rezervasyon sisteminde kullanılacak olan konum (lokasyon) bilgilerini tutar. Bir kullanıcı uçuş araması yaptığında, bu model kullanılarak hangi ülkede, hangi şehirde ve hangi havaalanında işlem yapıldığı belirlenebilir. Ayrıca, lokasyonun aktif veya pasif durumda olup olmadığı kontrol edilebilir.
 Plane.cs = Bu sınıf, uçaklara ait bilgileri tutar ve veritabanındaki bir tablonun veya bir API'nin döndüreceği uçak verilerini temsil eder. Örneğin, uçuş planlamasında veya rezervasyon işlemlerinde hangi model, marka ve seri numarasına sahip uçağın kullanılacağı, bu uçakta kaç koltuk bulunduğu gibi bilgiler bu model aracılığıyla yönetilebilir.
 
