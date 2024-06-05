@@ -1,16 +1,18 @@
 Bu proje, C# ve SQLite kullanılarak geliştirilmiş kapsamlı bir uçuş rezervasyon sistemidir. Sistem, uçuş rezervasyonlarını, müşteri bilgilerini ve uçuş programlarını yönetmek için çeşitli işlevler içerir.
 
 ##Özellikler
-- **Kullanıcı Kaydı ve Giriş:**
-  - Yeni kullanıcılar için kayıt olma ve mevcut kullanıcılar için giriş yapma.
-- **Uçuş Arama ve Rezervasyon:**
-  - Kullanıcıların mevcut uçuşları arayabilmesi ve rezervasyon yapabilmesi.
-- **Müşteri Bilgilerini Yönetme:**
-  - Kullanıcıların profil bilgilerini güncelleyebilmesi.
-- **Uçuş Programlarını Görüntüleme:**
-  - Kullanıcıların tüm uçuş programlarını görüntüleyebilmesi.
-- **Yönetim Paneli:**
-  - Yöneticilerin uçuşları ve kullanıcı hesaplarını yönetebilmesi.
+- ** Kullanıcı Kaydı ve Giriş:
+- ** Yeni kullanıcılar için kayıt olma ve mevcut kullanıcılar için giriş yapma.
+- ** Uçuş Arama ve Rezervasyon:
+- ** Kullanıcıların mevcut uçuşları arayabilmesi ve rezervasyon yapabilmesi.
+- ** Müşteri Bilgilerini Yönetme:
+- ** Kullanıcıların profil bilgilerini güncelleyebilmesi.
+- ** Uçuş Programlarını Görüntüleme:**
+- ** Kullanıcıların tüm uçuş programlarını görüntüleyebilmesi.
+- ** Yönetim Paneli:
+- ** Yöneticilerin uçuşları ve kullanıcı hesaplarını yönetebilmesi.
+- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Location.cs = uçak rezervasyon sisteminde kullanılacak olan konum (lokasyon) bilgilerini tutar. Bir kullanıcı uçuş araması yaptığında, bu model kullanılarak hangi ülkede, hangi şehirde ve hangi havaalanında işlem yapıldığı belirlenebilir. Ayrıca, lokasyonun aktif veya pasif durumda olup olmadığı kontrol edilebilir.
 Plane.cs = Bu sınıf, uçaklara ait bilgileri tutar ve veritabanındaki bir tablonun veya bir API'nin döndüreceği uçak verilerini temsil eder. Örneğin, uçuş planlamasında veya rezervasyon işlemlerinde hangi model, marka ve seri numarasına sahip uçağın kullanılacağı, bu uçakta kaç koltuk bulunduğu gibi bilgiler bu model aracılığıyla yönetilebilir.
 
